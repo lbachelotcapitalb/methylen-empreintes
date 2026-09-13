@@ -1,0 +1,15 @@
+{
+  "_doc": "Journal public des versions de l'app de bureau methylen. L'app installée refuse toute mise à jour absente de ce fichier ou dont la signature diffère. Aucun code source ici : seulement des empreintes et des signatures.",
+  "schema": 1,
+  "versions": [
+    {
+      "version": "1.23.0",
+      "publieLe": "2026-09-13",
+      "plateformes": {
+        "darwin-aarch64": {
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdjVUTHBjRDFzQStYdVI0NUJYTkZOZEFEOTlBUUFNQkRSZ29vZ2dYUDZFbld1TllBYjZHSXUyZXpWN2kvV1VKUFZDRzJXZG9VeHc4eUxvRjJOUS9jQ2lpb3MwclJzUEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzA0MDQ0CWZpbGU6bWV0aHlsZW4uYXBwLnRhci5negp6OWFLMXVaNGlQOW5XWWFjYVNlWndvRnZ2VkxMYTRCOXNtM2ZpL20vSmR4K0VZOXpvZ0J1aUg5S2VpVDFFRDliVXZMOGxtVFVDaXVnUTRsdlFSdStEUT09Cg=="
+        }
+      }
+    }
+  ]
+}
