@@ -19,6 +19,15 @@
           "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdjVUTHBjRDFzQXpUc0ZHYThnakRQaUJwRUw5eW1jUUt3dk03YmR0ckUwcmNJTmEvRGpEWUd0VUthVzdJcGltZkFGeXRWRGJFZ0Q2dTQvd0k5Y3lva1B1ZlhnbE9FTkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzI1MDY3CWZpbGU6bWV0aHlsZW4uYXBwLnRhci5nego2dngyYUdhK1hzaDJidENoVUw4andRUlNUOUVNUWtuRG8yeWhIU0E4eDE0OW1DZXpQWHNqTFdVczRsUG5CUy9GM3AzdTUvSSt3Y1JlRGg3a2t4bzVCZz09Cg=="
         }
       }
+    },
+    {
+      "version": "1.24.3",
+      "publieLe": "2026-09-14",
+      "plateformes": {
+        "darwin-aarch64": {
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdjVUTHBjRDFzQTFSVGFCYmdNQUpZNmVUVVBid2ZiZmk3anBiWEc4dmJPS0tJTFc0S2dQOUxjU0FYUXVFby9uY2F0VkNrSFE5U0hTd1NQcUVEbjROd2F0YVA3OHJ1MkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzgxNDg2CWZpbGU6bWV0aHlsZW4uYXBwLnRhci5negpCblVSa3pVZUh2dU00UDVhK3k1TEJxdFROZnN0Lyt6NWFScUpuRkViYUtDNTFITjE0L1FYejI2WGxmRzgzcFhOczZUbzUvbDJZVG9jV2I1NnN1eFZDUT09Cg=="
+        }
+      }
     }
   ]
 }
