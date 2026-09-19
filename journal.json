@@ -82,6 +82,19 @@
           "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdjVUTHBjRDFzQThBWGdHNE9rT0puYm41NzBIUTlCK3cydWJzbXQxYnFESTB5U0thMUtWY2tJck9uUHNmL1BNTXlZNWlWM3BYRVJDcmxjeTRzaFB1UnFjS2N1Q1pKcVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzQ2ODcxCWZpbGU6bWV0aHlsZW4uYXBwLnRhci5negpDTDUrMDZWTHJzL3dTRzJYSkc5ZFkyOXhhRjNCUmIxU25pM1B1M0xsTUVCWStGWlhvZ0xGbzgxSXNXdEFIM3ozbHB1NDAva3FSbWt0Zm14U2drL21EZz09Cg=="
         }
       }
+    },
+    {
+      "version": "1.33.6",
+      "publieLe": "2026-09-19",
+      "plateformes": {
+        "darwin-aarch64": {
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdjVUTHBjRDFzQThpT3ZUendzOHdkVENkc1RvQUNhMUZveStXY3ljd254czQxN001Nm1zWExtbW0wRElnRWszVFN5Y05wQk9tVUxDdVFtUTQxZFpCYmNzRXYxdFVuWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODUxNzExCWZpbGU6bWV0aHlsZW4uYXBwLnRhci5negpBN25lWEdVaTBURkcxaTJERFE5a2ZIaHBiNkp4VEg0RlRGdHY3ZW9WbDNla1dtaTQwdEdVU3llaDljcUpxSVIrZnZ1ZG1JdGZLcThmUzBXMjVyRDVBUT09Cg=="
+        }
+      },
+      "dmg": {
+        "fichier": "methylen_1.33.6_aarch64.dmg",
+        "sha256": "a1bde0a53e9b7d072ceeddb7222897afbdcb4dd6541bf5020b27522bc385e05a"
+      }
     }
   ]
 }
