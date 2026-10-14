@@ -160,6 +160,19 @@
         "fichier": "methylen_1.39.0_aarch64.dmg",
         "sha256": "0c97c6809b72766a3a070520eaa08c72314aa5887811cccd3708f33cfdcf1e07"
       }
+    },
+    {
+      "version": "1.40.0",
+      "publieLe": "2026-10-14",
+      "plateformes": {
+        "darwin-aarch64": {
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdjVUTHBjRDFzQTFXZU1lVUtLZnVoQitJRWRnMU54T0V4V2x6VmNmS3NqVmtlM05acWkyS0xxWFBlMVg4d0QyeUd1NEY4WGNFRjdEdFQ0VmxreXpyN0ZCQ3NlNXJaWkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTY1MjI3CWZpbGU6bWV0aHlsZW4uYXBwLnRhci5negpKcFM5cmprTTdXQlJFSENSRjlQb3U3TmV0TjcvSnRMN25hNitnVWhTTTV0SUdzZkFhUjgrc1haTTErblNEMEdNYnF0Z2o3MlFPU1V2U1RCNk9sR3hCUT09Cg=="
+        }
+      },
+      "dmg": {
+        "fichier": "methylen_1.40.0_aarch64.dmg",
+        "sha256": "4c6af2ce5ee44e7470e1af9f27c1a7b1a1dd4ae63993a005195a8627fa00f016"
+      }
     }
   ]
 }
