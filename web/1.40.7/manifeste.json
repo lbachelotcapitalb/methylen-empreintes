@@ -1,0 +1,397 @@
+{
+  "_doc": "Empreintes SHA-256 de chaque fichier de ce bundle. `empreinte` résume la liste : sha256 du texte « <sha256>  <chemin>\\n » de chaque fichier, triés par chemin. Aucun horodatage : deux builds du même arbre doivent rendre ce fichier à l'identique.",
+  "schema": 1,
+  "algo": "sha256",
+  "version": "1.40.7",
+  "commit": "df6eaabab4fc950124aeffc6d4b967d051b2c4dc",
+  "empreinte": "382b78c6c85f359ed68c52b9ddecc10107c83fba256ff751c2a57757ea1a2754",
+  "nombre": 77,
+  "octets": 7851688,
+  "fichiers": [
+    {
+      "chemin": "apple-touch-icon.svg",
+      "octets": 2158,
+      "sha256": "73e393b2a73bbafda9d614e0dbf330c091b4086b67635cdbe0cbbccb0860d602"
+    },
+    {
+      "chemin": "assets/BulleRetour-0z1i7AeD.js",
+      "octets": 6259,
+      "sha256": "7c0139e4dc1ed5e03978c30e0dcb515ec11a69a0f6e6da30fb6f1c9de8d8f8fe"
+    },
+    {
+      "chemin": "assets/ClotureAuto-BeaoDa4m.js",
+      "octets": 11550,
+      "sha256": "544c9a67611a41b80cab595190d9b19afcc1ebf3268fb6fd7bcbbdcc2c548e14"
+    },
+    {
+      "chemin": "assets/DesktopAuth-BgCPQe9N.js",
+      "octets": 13749,
+      "sha256": "ada7595b3afc045fd136e27f88c363524055156463b431ce03278c64a2de081b"
+    },
+    {
+      "chemin": "assets/MobileApp-Dn-A6Qwx.js",
+      "octets": 117737,
+      "sha256": "b5971a728f818df01f778ab5de8fb39c354a6d25da192ef6a326b49ade7f8928"
+    },
+    {
+      "chemin": "assets/VisiteGuidee-B7BR2AzS.js",
+      "octets": 7873,
+      "sha256": "f94e283017f9744c295a04418e172077392b02c02e6cadeeeabd41ec0b75c0e9"
+    },
+    {
+      "chemin": "assets/agentMiseEnRoute-Cjk-A9gs.js",
+      "octets": 10693,
+      "sha256": "170046e45a7237de35dcdac83fa9015f7c1192e615c272fb458ae04c1e91b89c"
+    },
+    {
+      "chemin": "assets/agentPanel-BybbR0Hu.js",
+      "octets": 30321,
+      "sha256": "ab1d28e8568637f79c0d57222011bbc3c1066c52e975d03ef041f56db6a18462"
+    },
+    {
+      "chemin": "assets/core-DxBnVPgq.js",
+      "octets": 1661,
+      "sha256": "bbf96cc8af1c0d95c3fdfe046a019037fda11715042226c0ce0041dc7d1343c7"
+    },
+    {
+      "chemin": "assets/couverturePieces-DJbqJgk-.js",
+      "octets": 2496,
+      "sha256": "38c64ff86259da50a881706d70ce22f584f57b7913fcf9a3be0d2efdffb9a1f3"
+    },
+    {
+      "chemin": "assets/dividendesPanel-MRxOuq89.js",
+      "octets": 42824,
+      "sha256": "bc0513f8b366f4b5e5a70fdcca5a6ac52b5f489bda7513727ba42c3289608ccc"
+    },
+    {
+      "chemin": "assets/etatsPdf-Acx33OcZ.js",
+      "octets": 6914,
+      "sha256": "99597dd26bfce30172423c28a5585d4b22b0a2f433cebc4e446873f983d6aa9f"
+    },
+    {
+      "chemin": "assets/fiscalPanels-DW0RM2Fy.js",
+      "octets": 129446,
+      "sha256": "3d9fa8fd9c9bc4f0f5804d14784ac638452bb64103a5d0a859a00499dfdd2ff0"
+    },
+    {
+      "chemin": "assets/index-B8rbb-e6.js",
+      "octets": 120,
+      "sha256": "0dafd80d5b2914bb67d0ebea7f1f1991b0696aefc445105adee462b969e1c199"
+    },
+    {
+      "chemin": "assets/index-BFL1V4Se.css",
+      "octets": 19618,
+      "sha256": "8b90964ae873be75a83637f516d2440665a59de826e83ccff83c264b640ff454"
+    },
+    {
+      "chemin": "assets/index-CgZrP0yV.js",
+      "octets": 7439,
+      "sha256": "5a5b822e4b88050c6ea328084a153acf789ab9cac69e92e83b25908a28c3e902"
+    },
+    {
+      "chemin": "assets/index-CsetDzYn.js",
+      "octets": 1061,
+      "sha256": "f4d5f3a6220a2c33e81e44c16d8a28edbf9ecc762be18409494c2ef35e4ec6c4"
+    },
+    {
+      "chemin": "assets/index-CuV5HJR0.js",
+      "octets": 2230946,
+      "sha256": "a760b5d480f72cf878c98912108d5557d2838f7b1dcb296bba31eda34aba02ea"
+    },
+    {
+      "chemin": "assets/index-Df0sue5e.js",
+      "octets": 433858,
+      "sha256": "c418308130654e1e0576dc4c2e065f635b34f9163a2c47f5dd444319532cf738"
+    },
+    {
+      "chemin": "assets/index-DkQ563B5.js",
+      "octets": 291,
+      "sha256": "3fd2fa9292f6e14948c34891dec10278e4fe867bfbc8b164243767ef62c16816"
+    },
+    {
+      "chemin": "assets/installMobilePanel-DIUU7Umh.js",
+      "octets": 2948,
+      "sha256": "7b379d442b2170b327cc1e511f33516b1ddc689ed7cef6394751f377337eb97c"
+    },
+    {
+      "chemin": "assets/jeuDemo-DZmWLOXG.js",
+      "octets": 202406,
+      "sha256": "91810d553a551afa387e494c1baf2866ea2a3f6772c0aca61035b2c558603652"
+    },
+    {
+      "chemin": "assets/jeuDemoSci-D7rCVniw.js",
+      "octets": 158948,
+      "sha256": "e38fbfde894d36fbc11f2c08bb2adf83f2f371d89bd2241301dc7f38eb7ae88c"
+    },
+    {
+      "chemin": "assets/jeuDemoSciAvantCloture-CSdcFnG9.js",
+      "octets": 105348,
+      "sha256": "6dd89ab4d9c1a1d04333b05765bb5c4771512e34728c29970172832beb7c9e9a"
+    },
+    {
+      "chemin": "assets/lucide-icons-DFeuXfMJ.js",
+      "octets": 33261,
+      "sha256": "e4f7ac5167e639b48758fbbf98426c4e63c1831743d58dc88816037b53bbca4f"
+    },
+    {
+      "chemin": "assets/quittancePdf-D5LhcWjF.js",
+      "octets": 3808,
+      "sha256": "a6f6a06a64a06f2877df5bbdfa08b4a1f0609cdac57d77bfd4819537364966ee"
+    },
+    {
+      "chemin": "assets/react-vendor-5s1wMXKg.js",
+      "octets": 133922,
+      "sha256": "a8ffe19a381662081276b6cb0a2920ef13c16f0daccec371aaf592d9bcb7ba6a"
+    },
+    {
+      "chemin": "assets/storage-D9HovSWz.js",
+      "octets": 1095,
+      "sha256": "004b24fe98f54a3e80abf30b28cf0fcf3a1b74fead6aeae134535a6ca229fb34"
+    },
+    {
+      "chemin": "assets/supabase-3IMqbN4E.js",
+      "octets": 207356,
+      "sha256": "456ada25a4dcdce0dd9d4c0f01bd2cd55b7f070073cc115a421993f59f35cb5c"
+    },
+    {
+      "chemin": "assets/tutorielImpots-ovIU9tRh.js",
+      "octets": 9766,
+      "sha256": "c6820e6c1f73f6bc02b731ff20268e597bf30a73af9fc64a8f82c43a17174453"
+    },
+    {
+      "chemin": "assets/tutorielPanel-BMKJb-ZX.js",
+      "octets": 9860,
+      "sha256": "066a2690bee65d5810c12e2d769ade29124aea09e47251f4e68fc56eec2711c1"
+    },
+    {
+      "chemin": "assets/vaultDriverTauri-DWtL0LiX.js",
+      "octets": 2320,
+      "sha256": "9a9b5c4a4fe0f6e22a1d42bc9c6321d8538c431c5b5a3b974b088dd0dcab276a"
+    },
+    {
+      "chemin": "assets/ventesTvaPanel-fRZyDWq3.js",
+      "octets": 4223,
+      "sha256": "4c338d1fbf2d679f5bd60967331c0f79f82396a201d1a4c99744a48b9f215104"
+    },
+    {
+      "chemin": "build-env.json",
+      "octets": 159,
+      "sha256": "eea3bfc378deb0a7a0d03dbc8feec578e62ddf95e0e81439f7207ead0710d16d"
+    },
+    {
+      "chemin": "cerfa/2031-sd-2025.pdf",
+      "octets": 249171,
+      "sha256": "ac642cc3ea8517b716f3ef68af39eefcfe8beb49bbd9993812c8c95d1986f758"
+    },
+    {
+      "chemin": "cerfa/2031-sd-2026.pdf",
+      "octets": 250351,
+      "sha256": "d45d66d6f6ed7e97769b454a22ed462b1ff2c8c2b0ed5779a1448bc6996b9ac2"
+    },
+    {
+      "chemin": "cerfa/2033-sd-2025.pdf",
+      "octets": 215009,
+      "sha256": "264c870d04160d4cebf31e0c67a5795e465b0a1a4785a7e39ef15988cab0758b"
+    },
+    {
+      "chemin": "cerfa/2033-sd-2026.pdf",
+      "octets": 219975,
+      "sha256": "ce4c519097fa435e9bd0ca3956016e5e05321c6f07db341285c9f46fb177b6cb"
+    },
+    {
+      "chemin": "cerfa/2065-sd-2025.pdf",
+      "octets": 229375,
+      "sha256": "c671e1e8f7cf2ae885b410348da8dce0c1243c101550997a18553f977d2987b2"
+    },
+    {
+      "chemin": "cerfa/2065-sd-2026.pdf",
+      "octets": 210706,
+      "sha256": "c4f8d73574b6aa5667dba91ad8a918aaca3c71587f4d863938d0223f207d06de"
+    },
+    {
+      "chemin": "cerfa/2072-s-sd-2025.pdf",
+      "octets": 213993,
+      "sha256": "87b0f12a1bde24915a0b013bbc15bd69ff48ddc8b407de7d8d7dd778debef993"
+    },
+    {
+      "chemin": "cerfa/2072-s-sd-2026.pdf",
+      "octets": 140741,
+      "sha256": "95c6ff87fb503268c9cfd9941d16786bfa520df81924fc107ea84a65e0602548"
+    },
+    {
+      "chemin": "cerfa/2561-2025.pdf",
+      "octets": 70741,
+      "sha256": "a1acb9d2ac388eab76b49dcdaffacef2b6181cc0cfa4432edda198b426be51b3"
+    },
+    {
+      "chemin": "cerfa/2572-sd-2025.pdf",
+      "octets": 159726,
+      "sha256": "86b742e596d6ad4cc9ead52a45ea3343e3cbb32ca429acf0fa5992a3c9c83640"
+    },
+    {
+      "chemin": "cerfa/2572-sd-2026.pdf",
+      "octets": 170497,
+      "sha256": "629d1cbe7e056ce213d3d9101990485dbfba777f2a9d16276cf3ceb5327e168b"
+    },
+    {
+      "chemin": "cerfa/2777-sd-2026.pdf",
+      "octets": 830271,
+      "sha256": "cb6ca9767c536de739b341a701473ba510812bd37db2d23c159586603be43f37"
+    },
+    {
+      "chemin": "cerfa/3310-ca3-sd-2025.pdf",
+      "octets": 133580,
+      "sha256": "5167afb091c11c455b635ca2534b6330f9bf29683cc6caccbb218da4a2122468"
+    },
+    {
+      "chemin": "cerfa/3310-ca3-sd-2026.pdf",
+      "octets": 372707,
+      "sha256": "1d216219ce476a9a57f7f75a1da87ae42dc1ff65bd086ba0956051f4ca9accb5"
+    },
+    {
+      "chemin": "favicon.svg",
+      "octets": 2309,
+      "sha256": "25ac9a9b8ac3b57ab8f6c78b54885bd6cda0dfa940e7000541bb31b81b265984"
+    },
+    {
+      "chemin": "fonts/IBMPlexMono-400-latin-ext.woff2",
+      "octets": 8860,
+      "sha256": "f1050dc5317b43434c0aeda599d4624c774ffc162e87a8cf204b949b6a85816d"
+    },
+    {
+      "chemin": "fonts/IBMPlexMono-400-latin.woff2",
+      "octets": 10052,
+      "sha256": "c36f509c0a8f9f85f29cb44bc8701d8a9e0b14c499e77a884f789ead7093a7ac"
+    },
+    {
+      "chemin": "fonts/IBMPlexMono-500-latin-ext.woff2",
+      "octets": 8848,
+      "sha256": "77f03e26f981c582bdba3a7abed4baa2d3149211c01366bb3ab3ba7622ec4ae5"
+    },
+    {
+      "chemin": "fonts/IBMPlexMono-500-latin.woff2",
+      "octets": 10060,
+      "sha256": "a76f53ca6612e7b3828eec2311098675b7f9849ae4169a8bcef6302aec02a6c0"
+    },
+    {
+      "chemin": "fonts/IBMPlexSerif-200i-latin-ext.woff2",
+      "octets": 11676,
+      "sha256": "fe339e91b29f15ae9389ac93d2c985a5dfeedc29f6011c0e64fe3e42b12db048"
+    },
+    {
+      "chemin": "fonts/IBMPlexSerif-200i-latin.woff2",
+      "octets": 16476,
+      "sha256": "6268787c940d4120f1835b319d74fa88c6845e404b4d362eb61cd75eb5ed2ce1"
+    },
+    {
+      "chemin": "fonts/IBMPlexSerif-300i-latin-ext.woff2",
+      "octets": 11648,
+      "sha256": "afb288cee6512b31af762504cea6839326fb936cbff2bfa9152a659fec33323b"
+    },
+    {
+      "chemin": "fonts/IBMPlexSerif-300i-latin.woff2",
+      "octets": 16704,
+      "sha256": "4382a07c8d8031931f91b1e69c396973f8513d20935217c82532bd6a1ae820d8"
+    },
+    {
+      "chemin": "fonts/IBMPlexSerif-400i-latin-ext.woff2",
+      "octets": 11692,
+      "sha256": "512c8c7bbbea0993bb90a1165261ebe7b4effbfab192f09a227eb43f67a2bebd"
+    },
+    {
+      "chemin": "fonts/IBMPlexSerif-400i-latin.woff2",
+      "octets": 16024,
+      "sha256": "9daa6f3da3e4917e5da8537fe9b42a1d764f967e40920ef91cb1b01e069bd241"
+    },
+    {
+      "chemin": "fonts/Outfit-300-latin-ext.woff2",
+      "octets": 14760,
+      "sha256": "9e38b3f1575daba3435ef09d33a202585ed5bd204bd0a8c744955c750c2b9091"
+    },
+    {
+      "chemin": "fonts/Outfit-300-latin.woff2",
+      "octets": 32228,
+      "sha256": "92684e4acde79ef07758cd09380b7e01e9824d8b061eddeda046f78c166d7b12"
+    },
+    {
+      "chemin": "fonts/Outfit-400-latin-ext.woff2",
+      "octets": 14760,
+      "sha256": "9e38b3f1575daba3435ef09d33a202585ed5bd204bd0a8c744955c750c2b9091"
+    },
+    {
+      "chemin": "fonts/Outfit-400-latin.woff2",
+      "octets": 32228,
+      "sha256": "92684e4acde79ef07758cd09380b7e01e9824d8b061eddeda046f78c166d7b12"
+    },
+    {
+      "chemin": "fonts/Outfit-500-latin-ext.woff2",
+      "octets": 14760,
+      "sha256": "9e38b3f1575daba3435ef09d33a202585ed5bd204bd0a8c744955c750c2b9091"
+    },
+    {
+      "chemin": "fonts/Outfit-500-latin.woff2",
+      "octets": 32228,
+      "sha256": "92684e4acde79ef07758cd09380b7e01e9824d8b061eddeda046f78c166d7b12"
+    },
+    {
+      "chemin": "fonts/Outfit-600-latin-ext.woff2",
+      "octets": 14760,
+      "sha256": "9e38b3f1575daba3435ef09d33a202585ed5bd204bd0a8c744955c750c2b9091"
+    },
+    {
+      "chemin": "fonts/Outfit-600-latin.woff2",
+      "octets": 32228,
+      "sha256": "92684e4acde79ef07758cd09380b7e01e9824d8b061eddeda046f78c166d7b12"
+    },
+    {
+      "chemin": "fonts/Outfit-700-latin-ext.woff2",
+      "octets": 14760,
+      "sha256": "9e38b3f1575daba3435ef09d33a202585ed5bd204bd0a8c744955c750c2b9091"
+    },
+    {
+      "chemin": "fonts/Outfit-700-latin.woff2",
+      "octets": 32228,
+      "sha256": "92684e4acde79ef07758cd09380b7e01e9824d8b061eddeda046f78c166d7b12"
+    },
+    {
+      "chemin": "fonts/Outfit-800-latin-ext.woff2",
+      "octets": 14760,
+      "sha256": "9e38b3f1575daba3435ef09d33a202585ed5bd204bd0a8c744955c750c2b9091"
+    },
+    {
+      "chemin": "fonts/Outfit-800-latin.woff2",
+      "octets": 32228,
+      "sha256": "92684e4acde79ef07758cd09380b7e01e9824d8b061eddeda046f78c166d7b12"
+    },
+    {
+      "chemin": "icon-192.png",
+      "octets": 3363,
+      "sha256": "290e3d35fb9a0cfe2f6c26558088afe104e8a0cc307f0c4b4e54d5829d07086a"
+    },
+    {
+      "chemin": "icon-512.png",
+      "octets": 9819,
+      "sha256": "fca7b25e87ca45e69b64cd592df8cb1c91cb4b025c871f32a611b17e27229e3e"
+    },
+    {
+      "chemin": "index.html",
+      "octets": 3935,
+      "sha256": "5775635e6df7bd7ef0fb58587952cf39788ca248f290e443efe68215fa4a0524"
+    },
+    {
+      "chemin": "manifest.webmanifest",
+      "octets": 1203,
+      "sha256": "d293dbaec8d9d5249a213ae8feacd765d17eb7b78b59ce2faf561f3d917f856f"
+    },
+    {
+      "chemin": "sw.js",
+      "octets": 7602,
+      "sha256": "f4bda09226a7bed0cda8a5dca33e09cb63abb53c0d95591904417be6f5a610d8"
+    },
+    {
+      "chemin": "version.json",
+      "octets": 212,
+      "sha256": "2e31b5efbc2f1b0364b0c89636408617b5266b021e10a742722822b16e057785"
+    }
+  ]
+}
